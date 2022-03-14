@@ -2,7 +2,7 @@
 
 ## Descripton
 
-Static web hosting supports fixed-content, HTML-based websites that display the same information to all visitors. You can use Amazon S3 to host a static website. On a static website, individual webpages include static content. They might also contain client-side scripts.)
+Static web hosting supports fixed-content, HTML-based websites that display the same information to all visitors. You can use Amazon S3 to host a static website. On a static website, individual webpages include static content. They might also contain client-side scripts.
 
 ## Steps to configure a static website using s3
 
@@ -16,3 +16,4 @@ Static web hosting supports fixed-content, HTML-based websites that display the 
 
 * Step4: Edit Block Public Access settings
 
+![myImage]()
