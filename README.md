@@ -45,7 +45,9 @@ You can add policy via Permissions > Under Bucket Policy, choose Edit and add th
 
 ![g3](https://user-images.githubusercontent.com/100779249/158238770-07271b07-8629-4015-a70a-2a6c0ba09d98.png)
 
+
 The static website is now accessible to public.
+
 
 ![g4](https://user-images.githubusercontent.com/100779249/158238986-86bc17b9-991d-40e0-af53-1eea56c20900.png)
 
