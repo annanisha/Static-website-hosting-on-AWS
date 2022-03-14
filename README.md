@@ -22,6 +22,8 @@ Static web hosting supports fixed-content, HTML-based websites that display the 
 
 * Create a bucket policy that makes your bucket content publicly available.
 
+You can add policy via Permissions > Under Bucket Policy, choose Edit and add the below code:
+
  ```{
     "Version": "2012-10-17",
     "Statement": [
