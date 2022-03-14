@@ -19,3 +19,5 @@ Static web hosting supports fixed-content, HTML-based websites that display the 
 * Step4: Edit Block Public Access settings > untick checkbox "Block all public access" > save
 
 ![g1](https://user-images.githubusercontent.com/100779249/158231817-e12de772-90f5-459d-917b-0464580af606.png)
+
+* Create a bucket policy that makes your bucket content publicly available
