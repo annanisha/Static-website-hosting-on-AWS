@@ -43,7 +43,7 @@ You can add policy via Permissions > Under Bucket Policy, choose Edit and add th
 ```
 * Step5: This is th final step to make your static webiste live. Create a cname record to "Bucket website endpoint" via route53
 
-![g3](https://user-images.githubusercontent.com/100779249/158238387-79ba915f-b802-47b5-ba69-5e1807443679.png)
+![g3](https://user-images.githubusercontent.com/100779249/158238770-07271b07-8629-4015-a70a-2a6c0ba09d98.png)
 
 The static website is now accessible to public.
 
