@@ -14,6 +14,6 @@ Static web hosting supports fixed-content, HTML-based websites that display the 
 
 * Step4: Enable static website hosting via Choose Properties > Under Static website hosting, choose Edit > click on enable option > select Hosting type as "Host a static website" > In Index document, enter the file name of the index document, typically index.html. Under Static website hosting, note the Endpoint.
 
-* Step4: Edit Block Public Access settings
+* Step4: Edit Block Public Access settings > untick checkbox "Block all public access" > save
 
 ![g1](https://user-images.githubusercontent.com/100779249/158231817-e12de772-90f5-459d-917b-0464580af606.png)
