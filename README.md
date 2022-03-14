@@ -20,4 +20,22 @@ Static web hosting supports fixed-content, HTML-based websites that display the 
 
 ![g1](https://user-images.githubusercontent.com/100779249/158231817-e12de772-90f5-459d-917b-0464580af606.png)
 
-* Create a bucket policy that makes your bucket content publicly available
+* Create a bucket policy that makes your bucket content publicly available.
+
+ ```{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "PublicReadGetObject",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": [
+                "s3:GetObject"
+            ],
+            "Resource": [
+                "arn:aws:s3:::staticwebsite.anishababu.tech/*"
+            ]
+        }
+    ]
+}
+```
